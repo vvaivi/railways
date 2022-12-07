@@ -1,0 +1,2 @@
+# railways
+This is a project from Tampere University Data Structures and Algorithms course. I implemented the Datastructures class. The main program, test files and GUI were provided as template. Working on this project, I learned to select STL-containers and implement functions correctly to make the program efficient. I also learned to estimate, test and improve asymptotic efficiencies. I got familiar with common algorithms such as BFS, DFS and Dijkstra's. The project was done in Qt. 
